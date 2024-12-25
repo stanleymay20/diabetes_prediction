@@ -43,6 +43,8 @@ The dataset contains the following features:
    macro avg       0.73      0.73      0.73       154
 weighted avg       0.75      0.75      0.75       154
   ```
+```
+
 - **Confusion Matrix**:
   ```
   [[78, 21],
